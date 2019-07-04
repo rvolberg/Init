@@ -1,0 +1,3 @@
+fdisk -l
+
+(mode super utilisateur :  su + password)

@@ -1,0 +1,5 @@
+entrees locales dns sont dans : /etc/hosts
+
+(difference /etc/hosts et /etc/host.conf =>
+on dit a  /etc/host.conf que l on veut lire les noms machines
+a part de /etc/hosts)

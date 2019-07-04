@@ -1,0 +1,3 @@
+iptables -L
+
+(acces super utilisateur : su + password)

@@ -1,0 +1,4 @@
+pour rendre le changement permanent il faut modifier le ficher /etc/hostname
+
+(NB : /etc/ contient les fichiers de configuration du système 
+et les principaux scripts de paramétrage)

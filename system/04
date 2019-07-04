@@ -1,0 +1,4 @@
+uptime
+
+(pour une sortie plus propre :
+uptime | cut -d ' ' -f5 | sed 's/,//'  )

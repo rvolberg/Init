@@ -1,0 +1,6 @@
+iptables -A INPUT  -s 10.0.0.0/8 -j ACCEPT
+
+(-A ajoute une regle a la fin de la liste,
+INPUT pour les paquets entrant 
+-s correspond a la source
+-j defini action a prendre si paquet = critere)

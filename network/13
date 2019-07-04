@@ -1,0 +1,6 @@
+type de serveur :  dhcp
+(nslookup 10.51.1.253)
+
+(nslookup de moins en moins utiliser, dig ou host plus adapter
+dig -x 10.51.1.253 +short -> -x pour reverse lookup
+host 10.51.1.253)

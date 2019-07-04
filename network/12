@@ -1,0 +1,4 @@
+ping -oa 10.51.1.253
+
+(permet de tester si une autre machine est accessible via reseau IP
+a : audible, o : sort apres reception OK d un paquet)

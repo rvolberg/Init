@@ -1,0 +1,4 @@
+nat-1 (10.60.1.11)
+
+(commande : traceroute slash16.org, ligne nat-1
+La fonction NAT sert a traduire une adresse IP (source) privee en adresse Globale)

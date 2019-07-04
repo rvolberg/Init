@@ -1,0 +1,4 @@
+tail -f /var/log/syslog &
+
+(ajouter & a la fin d'une commande, met la commande en BG, commande
+fg pour la remettre au premier plan)

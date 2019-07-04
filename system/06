@@ -1,0 +1,3 @@
+/etc/init.d/ssh restart
+
+(ou systemctl restard sshd )
